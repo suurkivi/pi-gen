@@ -3,10 +3,12 @@ automake
 build-essential
 cmake
 curl
+dnsmasq
 dnsutils
 ffmpeg
 gcc
 git
+hostapd
 i2c-tools
 ifupdown
 iptables
@@ -27,8 +29,8 @@ libpng-dev
 libpopt-dev
 libssl-dev
 libswscale-dev
-libtbb2
 libtbb-dev
+libtbb2
 libtiff-dev
 libtool
 libusb-dev
