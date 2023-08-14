@@ -13,6 +13,7 @@ i2c-tools
 ifupdown
 iptables
 iptables-persistent
+iptables-persistent
 ir-keytable
 jq
 libasound2-dev
@@ -46,5 +47,6 @@ tmux
 unzip
 vim
 wavemon
+wireguard
 xmltoman
 zip
