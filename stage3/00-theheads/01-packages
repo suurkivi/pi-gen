@@ -24,6 +24,8 @@ libconfig-dev
 libdaemon-dev
 libdc1394-22-dev
 libffi-dev
+libgdk-pixbuf-xlib-2.0-0
+libgdk-pixbuf2.0-0
 libgtk2.0-dev
 libjpeg-dev
 libpng-dev
